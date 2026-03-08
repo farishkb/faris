@@ -7,7 +7,7 @@
         "app_version": "2",
         "message": "We Need Your Support Give us 5 Star \ud83c\udf1f Rating",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.shag.starsports.tv.cricstarforyou",
-        "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/streamwicket.com\/",
+        "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/play.google.com\/store\/apps\/details?id=com.shag.starsports.tv.cricstarforyou",
         "bottom_visible": "no",
         "msg_visible": "yes"
     }
