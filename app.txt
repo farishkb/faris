@@ -4,7 +4,7 @@
         "ads_data": "{\"sdk_key\":\"hej\",\"banner_ad_id\":\"gjd\",\"inter_ad_id\":\"ghd\",\"native_ad_id\":\"ghd\",\"adx_banner_ad_id\":\"\",\"adx_inter_ad_id\":\"\",\"adx_native_ad_id\":\"\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.gharcric.tv.playtv.crictv",
         "web_url": "https:\/\/example.com",
-        "app_version": "5",
+        "app_version": "2",
         "message": "Join Telegram. If the app gets blocked, you will still be able to install our app through Telegram. Click here.",
         "message_url": "https:\/\/t.me\/criconeapp",
         "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/play.google.com\/store\/apps\/details?id=com.shag.starsports.tv.cricstarforyou",
